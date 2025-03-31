@@ -69,7 +69,5 @@ E.	Model Output
 Synthetic Data Creation: We generate artificial financial data resembling real-world transactions to train and test the AI model effectively.
 SMA Clustering: Categorizes overdue payments (SMA0, SMA1, SMA2) to prioritize efforts and determine outreach methods (SMS, call, or visit).
 Age group Clustering: Clustering individuals by age and SMA characteristics helps uncover patterns and develop personalized treatment strategies. Enhances understanding across different age group.
-Predictive Analysis: Machine learning predicts when a customer is likely to make their next payment based on historical transaction patterns.
-Automated Alerts: AI-driven notifications remind customers about upcoming or overdue payments, improving collection efficiency and reducing defaults.
 
 GOAL  ::  The objective is to develop an AI-driven model for efficient collection management. This system will enable businesses to recover debts seamlessly, reducing costs while streamlining the entire process for greater ease and effectiveness.
